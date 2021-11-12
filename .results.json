@@ -5,29 +5,29 @@
     "passes": 4,
     "pending": 0,
     "failures": 0,
-    "start": "2021-08-10T00:32:44.267Z",
-    "end": "2021-08-10T00:32:44.654Z",
-    "duration": 387
+    "start": "2021-11-12T02:00:12.566Z",
+    "end": "2021-11-12T02:00:13.493Z",
+    "duration": 927
   },
   "tests": [
     {
       "title": "appends pet \"Odie\" to the end of the pets array",
       "fullTitle": "index.js Array functions append appends pet \"Odie\" to the end of the pets array",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "prepends a pet to the beginning of the pets array",
       "fullTitle": "index.js Array functions prepend prepends a pet to the beginning of the pets array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "removes the last pet from the pets array",
       "fullTitle": "index.js Array functions removeLast removes the last pet from the pets array",
-      "duration": 0,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -45,21 +45,21 @@
     {
       "title": "appends pet \"Odie\" to the end of the pets array",
       "fullTitle": "index.js Array functions append appends pet \"Odie\" to the end of the pets array",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "prepends a pet to the beginning of the pets array",
       "fullTitle": "index.js Array functions prepend prepends a pet to the beginning of the pets array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "removes the last pet from the pets array",
       "fullTitle": "index.js Array functions removeLast removes the last pet from the pets array",
-      "duration": 0,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
